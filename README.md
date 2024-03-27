@@ -1,2 +1,0 @@
-# ideal-carnival
-Linkedin learning
